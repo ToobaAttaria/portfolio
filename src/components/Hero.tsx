@@ -59,7 +59,7 @@ const Hero = () => {
                 size="lg"
                 className="bg-accent hover:bg-accent/90 text-accent-foreground"
               >
-                <a href="/TOOBAATTARIA.pdf" download>
+                <a href="/ToobaAttaria.pdf" download>
                   Download CV
                 </a>
               </Button>
