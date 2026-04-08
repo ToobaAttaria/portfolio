@@ -59,7 +59,7 @@ const Hero = () => {
                 size="lg"
                 className="bg-accent hover:bg-accent/90 text-accent-foreground"
               >
-                <a href="/TOOBAATTARIA.pdf" download>
+                <a href="/ToobaAttariaCV.pdf" download>
                   Download CV
                 </a>
               </Button>
@@ -87,7 +87,7 @@ const Hero = () => {
             <div className="relative">
               {/* IMAGE */}
               <img
-                src="img7.png"
+                src="ToobaPic.png"
                 alt="Tooba Attaria"
                 className="w-64 h-64 md:w-80 md:h-80 object-cover border border-transparent shadow-lg rounded-lg"
               />
