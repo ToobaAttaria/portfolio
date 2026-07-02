@@ -77,7 +77,7 @@ const About = () => {
                 {/* About Text */}
                 <div className="space-y-6 text-justify relative">
                   <p className="text-zinc-400 leading-relaxed">
-                    I am a <span className="text-accent font-semibold">Full Stack Developer</span> skilled in React, Next.js, and Supabase. I build clean, responsive web interfaces and connect them with efficient backend systems.
+                    I am a <span className="text-accent font-semibold">Full Stack Developer</span> skilled in React, Next.js, Python and Supabase. I build clean, responsive web interfaces and connect them with efficient backend systems.
                     I specialize in creating interactive UI components, optimizing web performance, and ensuring responsive designs across all devices.
                   </p>
 

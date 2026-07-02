@@ -43,10 +43,8 @@ const Hero = () => {
               className="text-muted-foreground text-base md:text-lg max-w-xl mb-10 leading-relaxed animate-fade-in opacity-0 text-justify"
               style={{ animationDelay: "0.4s" }}
             >
-              I build clean, responsive web interfaces and connect them with
-              efficient backend systems. Passionate about creating modern web
-              applications and turning designs into smooth, functional
-              experiences.
+             Full Stack Developer skilled in React, Next.js, React Native, Supabase, Appwrite, and FastAPI. Passionate about building responsive web and mobile applications, creating modern user experiences, and developing efficient backend solutions.
+
             </p>
 
             {/* BUTTONS */}
@@ -59,7 +57,7 @@ const Hero = () => {
                 size="lg"
                 className="bg-accent hover:bg-accent/90 text-accent-foreground"
               >
-                <a href="/ToobaAttariaCV.pdf" download>
+                <a href="/TOOBA_ATTARIA.pdf" download>
                   Download CV
                 </a>
               </Button>
@@ -104,7 +102,7 @@ const Hero = () => {
 
         </div>
 
-        
+
       </div>
     </section>
   );
