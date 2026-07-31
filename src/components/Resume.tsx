@@ -32,6 +32,11 @@ const certificates = [
     link: 'https://drive.google.com/file/d/1f0BrZCOnkHrassZCpWOBMfiQcTl1gha5/view?usp=sharing',
   },
   {
+  title: "Python Programming (Stanford University's Code in Place)",
+  issuer: "Stanford University's Code in Place",
+  link: "https://drive.google.com/file/d/18irTuK9DbV-WYR6RPKD816FYAYCefGVq/view?usp=sharing",
+},
+  {
     title: 'JavaScript Essentials',
     issuer: 'Cisco Networking Academy',
     link: 'https://drive.google.com/file/d/1-kIuZ_WBcwwB00IveJ0Cn11mPFsmlU6Y/view?usp=sharing',
